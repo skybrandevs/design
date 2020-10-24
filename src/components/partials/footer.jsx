@@ -8,7 +8,7 @@ const Footer =() => (
 <div>
 
 <div className="bac-whitesmoke-footer">
-
+{/** 
 <div className="container">
     <div className="row">
         <div className="col-lg-12">
@@ -25,8 +25,9 @@ const Footer =() => (
             </div>
         </div>
     </div>
-</div>
 
+</div>
+*/}
 
 <div className="container">
     <div className="row">

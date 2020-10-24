@@ -14,11 +14,13 @@ const Nav = () => (
         </button>
         <div class="collapse navbar-collapse" id="main_nav">
       <ul class="navbar-nav ml-auto">
+        {/** 
           <li class="nav-item"><a href="#section_1" class=" nav-link"> CLIENTS</a></li>
           <li class="nav-item"><a href="#section_2" class=" nav-link"> ABOUT </a></li>
           <li class="nav-item"><a href="#section_3" class=" nav-link"> CONTACT </a></li>
           <li class="nav-item"><a href="#section_4" class=" nav-link"> PORTFOLIO </a></li>
           <li class="nav-item"><a href="#section_5" class=" nav-link"> TEAM </a></li>
+        **/}
          
          </ul>
    </div>

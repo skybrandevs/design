@@ -24,7 +24,7 @@ const Team =() => (
 </div>
 
 
-
+{/**
 <div className="row">
     <div className="col">
         <img src={moshood} className="img-fluid img-team" alt="mshood"/>
@@ -55,10 +55,11 @@ const Team =() => (
 
 </div>
 
-
+*/}
 </div>
 
 </div>
+
 
 
 {/**main closing div */}
