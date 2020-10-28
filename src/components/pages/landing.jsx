@@ -6,7 +6,6 @@ import Clients from "../partials/clients";
 import About from "../partials/about";
 import Team from "../partials/team";
 import Portfolio from "../partials/portfolio";
-import Service from "../partials/service";
 import Footer from "../partials/footer";
 
 const Landing = () => (
@@ -25,7 +24,6 @@ const Landing = () => (
 
 <Portfolio/>
 
-<Service/>
 <Footer/>
 
 {/* main closing div */}

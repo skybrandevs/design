@@ -32,7 +32,7 @@ const Footer =() => (
 <div className="container">
     <div className="row">
         <div className="col-lg-12">
-            <div className="same-line">
+            <div className="same-line-2">
             <p className="xx-2">THE DEZIGNS HUB, LEKKI, LAGOS</p>
             <p className="xx-2">+(234) 808 152 1302</p>
             <p className="xx-2">hello@dezignshub.com</p>

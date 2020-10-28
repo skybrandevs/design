@@ -25,7 +25,7 @@ const Team =() => (
 
 
 <div className="row">
-    <div className="col">
+    <div className="col-md-4">
         <img src={moshood} className="img-fluid img-team" alt="mshood"/>
         <h5 className="team-name">Moshood Adesanya</h5>
         <p className="team-title">Graffiti Artist/Founder</p>
@@ -34,7 +34,7 @@ const Team =() => (
         </a>
     </div>
 
-    <div className="col">
+    <div className="col-md-4">
     <img src={mriyaki} className="img-fluid img-team" alt="mriyaki"/>
     <h5 className="team-name">Micheal Iyaki</h5>
         <p className="team-title">Graffiti Artist</p>
@@ -43,7 +43,7 @@ const Team =() => (
         </a>
     </div>
 
-    <div className="col">
+    <div className="col-md-4">
     <img src={mrdisman} className="img-fluid img-team" alt="mrdisman"/>
     <h5 className="team-name">Who be dis 1</h5>
         <p className="team-title">Graffiti Artist</p>

@@ -29,33 +29,33 @@ const Clients = () => (
 
 <div className="container" id="section_1">
 <div class="row">
-    <div class="col">
+    <div class="col-md-3">
         <img src={school} className="img-fluid logo-client-1" alt="school"/>
     </div>
-    <div class="col">
+    <div class="col-md-3">
     <img src={thebulb} className="img-fluid logo-client-2" alt="thebulb"/>
     </div>
-    <div class="col">
+    <div class="col-md-3">
         <img src={inky} className="img-fluid logo-client-3" alt="inky"/>
     </div>
-    <div class="col">
+    <div class="col-md-3">
     <img src={innova} className="img-fluid logo-client-4" alt="innova"/>  
     </div>
  
    
     <div class="w-100"></div>
-    <div class="col">
+    <div class="col-md-3">
     <img src={tiger} className="img-fluid logo-client-5" alt="tiger"/>  
     </div>
-    <div class="col">
+    <div class="col-md-3">
     <img src={deck} className="img-fluid logo-client-2" alt="deck"/> 
     </div>
 
-    <div class="col">
+    <div class="col-md-3">
  
     </div>
 
-    <div class="col">
+    <div class="col-md-3">
     
     </div>
   </div>

@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "../../images/logo.png";
+import hamburger from "../../images/hamburger.png";
 
 
 const Nav = () => (
@@ -9,7 +10,7 @@ const Nav = () => (
 <nav id="navbar_1" class="navbar navbar-expand-lg navbar-light shadow-sm bg-white">
    <img src={logo} class="img-fluid logo" alt="logo"/>
        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav">
-          <span class="navbar-toggler-icon"></span>
+          <span class=""><img src={hamburger} className=""/></span>
         </button>
         <div class="collapse navbar-collapse" id="main_nav">
       <ul class="navbar-nav ml-auto">
